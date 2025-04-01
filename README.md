@@ -64,9 +64,19 @@ Lists the project dependencies:
 
 ## Example Output
 
-<div align="center">
-  <img src="/images/Screenshot 2025-04-01 154111.png">
-</div>
+All Students:<br>
+Name: Alice, Age: 21, Major: Computer Science, GPA: 3.8<br>
+Name: Bob, Age: 22, Major: Mathematics, GPA: 3.5<br>
+Name: Charlie, Age: 20, Major: Physics, GPA: 3.9<br>
+Name: David, Age: 23, Major: Chemistry, GPA: 3.2<br>
+Name: Eva, Age: 21, Major: Computer Science, GPA: 3.7<br>
+
+Enter minimum GPA to filter students: 3.6<br>
+
+Students with GPA >= 3.6:<br>
+Name: Alice, Age: 21, Major: Computer Science, GPA: 3.8<br>
+Name: Charlie, Age: 20, Major: Physics, GPA: 3.9<br>
+Name: Eva, Age: 21, Major: Computer Science, GPA: 3.7<br>
 
 ## Features
 
